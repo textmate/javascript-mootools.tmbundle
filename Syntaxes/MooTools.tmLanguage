@@ -9,10 +9,6 @@ http://mootools.net
 This syntax document is largely based on the documentation at http://docs.mootools.net
 Initial bundle by Joe Maller. 
 </string>
-	<key>foldingStartMarker</key>
-	<string>(^.*{[^}]*$|^.*\([^\)]*$|^.*/\*(?!.*\*/).*$)</string>
-	<key>foldingStopMarker</key>
-	<string>(^\s*\}|^\s*\)|^(?!.*/\*).*\*/)</string>
 	<key>keyEquivalent</key>
 	<string>^~J</string>
 	<key>name</key>
